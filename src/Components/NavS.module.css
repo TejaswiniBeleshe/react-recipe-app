@@ -1,0 +1,27 @@
+.nav{
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+    letter-spacing: .8rem;
+  
+    font-size:2.5rem;
+    /* color: rgb(118, 116, 116); */
+    color: aliceblue;
+    width: 100%;
+    background-color: rgb(63, 62, 62);
+    
+}
+p{
+    text-align: center;
+    /* width:50%; */
+}
+#imge{
+    height:32px;
+    width:33px; 
+}
+
+@media(max-width:475px){
+    .nav{
+
+        width: 100%;
+    }
+}

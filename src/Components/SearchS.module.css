@@ -1,0 +1,17 @@
+.ip{
+    /* border: 1px solid black; */
+    width: 30%;
+    height: 5vh;
+    margin: auto;
+    margin-top: 2rem;
+    color: rgb(118, 116, 116);
+}
+input{
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-bottom: .2rem solid transparent;
+    background: linear-gradient(white,white)padding-box,linear-gradient(45deg,rgb(151, 131, 131),rgb(168, 165, 165),rgb(205, 121, 121))border-box;
+    outline: none;
+    font-size: 1.3rem;
+}

@@ -1,0 +1,32 @@
+.child{
+    /* text-align: center; */
+    /* border: 3px solid chocolate; */
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+    min-width: 45%;
+    min-height: 20vh;
+    
+}
+.ingre img{
+    width:20%;
+
+}
+.eachIngre{
+    display: flex;
+    margin: .5rem;
+    margin-left:1rem;   
+}
+.discre{
+    width:40%;
+    padding: 2.3rem;
+    display: flex;
+    justify-content: space-between
+}
+@media (max-width:475px) {
+    .child{
+        max-width: 100%;
+    }
+    .discre{
+        width:70%;
+    }
+    
+}

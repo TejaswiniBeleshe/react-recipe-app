@@ -1,0 +1,31 @@
+.items{
+    width:100%;
+    border-radius:10px;
+    /* border: 1px solid blue; */
+    box-shadow: 0 0 10px rgba(204, 199, 199, 0.5);
+}
+.items img{
+    height:30%;
+    object-fit: cover;
+    border-radius:10px;
+}
+.itemBody{
+    width:100%;
+}
+
+button{
+   
+    border-radius: 8px;
+    border: 2.3px solid transparent;
+    background: linear-gradient(white,white)padding-box,linear-gradient(45deg,pink,blue,purple,green)border-box;
+}
+button:hover{
+    background:linear-gradient(rgb(148, 145, 145))padding-box;
+}
+
+
+/* .btn{
+    border: 2px solid transparent;
+    background-color: linear(60deg,red,purple,green,blue);
+    ba
+} */
